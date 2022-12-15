@@ -1,0 +1,11 @@
+C:\Users\cicek\Desktop\ferhat\public\helloWorld\cSharp\esiniBul\esiniBul\bin\Debug\esiniBul.exe.config
+C:\Users\cicek\Desktop\ferhat\public\helloWorld\cSharp\esiniBul\esiniBul\bin\Debug\esiniBul.exe
+C:\Users\cicek\Desktop\ferhat\public\helloWorld\cSharp\esiniBul\esiniBul\bin\Debug\esiniBul.pdb
+C:\Users\cicek\Desktop\ferhat\public\helloWorld\cSharp\esiniBul\esiniBul\obj\Debug\esiniBul.csproj.AssemblyReference.cache
+C:\Users\cicek\Desktop\ferhat\public\helloWorld\cSharp\esiniBul\esiniBul\obj\Debug\esiniBul.csproj.SuggestedBindingRedirects.cache
+C:\Users\cicek\Desktop\ferhat\public\helloWorld\cSharp\esiniBul\esiniBul\obj\Debug\esiniBul.Form1.resources
+C:\Users\cicek\Desktop\ferhat\public\helloWorld\cSharp\esiniBul\esiniBul\obj\Debug\esiniBul.Properties.Resources.resources
+C:\Users\cicek\Desktop\ferhat\public\helloWorld\cSharp\esiniBul\esiniBul\obj\Debug\esiniBul.csproj.GenerateResource.cache
+C:\Users\cicek\Desktop\ferhat\public\helloWorld\cSharp\esiniBul\esiniBul\obj\Debug\esiniBul.csproj.CoreCompileInputs.cache
+C:\Users\cicek\Desktop\ferhat\public\helloWorld\cSharp\esiniBul\esiniBul\obj\Debug\esiniBul.exe
+C:\Users\cicek\Desktop\ferhat\public\helloWorld\cSharp\esiniBul\esiniBul\obj\Debug\esiniBul.pdb
